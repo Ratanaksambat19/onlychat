@@ -6,6 +6,7 @@ target
 .project
 .metadata
 .recommenders
+client/node_modules
 bin
 travis/codesigning.asc
 frontend-plugin-core/target
